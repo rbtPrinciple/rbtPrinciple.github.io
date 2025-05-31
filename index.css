@@ -13,4 +13,18 @@ body {
     font-style: normal;
     font-variation-settings:
         "wdth" 100;
+    margin-top: 100px;
+}
+
+.buton {
+    color: black;
+    background-color: white;
+    transition-delay: 0.3s;
+    border-color: black;
+    border-radius: 15px;
+}
+
+.buton:hover {
+    color: white;
+    background-color: black;
 }
