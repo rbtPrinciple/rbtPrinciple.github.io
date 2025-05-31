@@ -21,8 +21,9 @@ body {
     background-color: white;
     transition: 0.3s;
     border-color: black;
+    border: solid;
     border-radius: 15px;
-    padding: 30px;
+    padding: 16px 32px;
 }
 
 .buton:hover {
