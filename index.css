@@ -26,6 +26,10 @@ body {
     padding: 16px 32px;
 }
 
+.spacer {
+    margin-top: 10px;
+}
+
 .buton:hover {
     color: white;
     background-color: black;
