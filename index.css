@@ -19,9 +19,10 @@ body {
 .buton {
     color: black;
     background-color: white;
-    transition-delay: 0.3s;
+    transition: 0.3s;
     border-color: black;
     border-radius: 15px;
+    padding: 30px;
 }
 
 .buton:hover {
