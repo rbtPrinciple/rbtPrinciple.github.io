@@ -40,5 +40,9 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #d6d6d6;
+  padding: 16px 32px;
+  border-radius: 10px;
+  border: solid;
+  border-color: black;
 }
