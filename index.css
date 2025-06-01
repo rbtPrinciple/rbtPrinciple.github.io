@@ -13,7 +13,6 @@ body {
     font-style: normal;
     font-variation-settings:
         "wdth" 100;
-    margin-top: 100px;
 }
 
 .buton {
@@ -28,6 +27,10 @@ body {
 
 .spacer {
     margin-top: 10px;
+}
+
+.big_spacer {
+    margin-top: 100px;
 }
 
 .buton:hover {
