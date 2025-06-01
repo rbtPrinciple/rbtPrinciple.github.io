@@ -23,6 +23,12 @@ body {
     border: solid;
     border-radius: 15px;
     padding: 16px 32px;
+    font-family: "Mona Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
 }
 
 .spacer {
@@ -45,4 +51,11 @@ body {
   border-radius: 10px;
   border: solid;
   border-color: black;
+}
+
+.login-panel {
+    padding: 40px 90px;
+    border: solid;
+    border-color: black;
+    border-radius: 15px;
 }
