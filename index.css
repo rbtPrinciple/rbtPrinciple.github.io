@@ -34,3 +34,8 @@ body {
     color: white;
     background-color: black;
 }
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
